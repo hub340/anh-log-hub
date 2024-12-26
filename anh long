@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Anh Long hub",--Tên Script
+    logoscript = " 90312791308252",--ID Logo Script
+    tacgia = "thanh phong"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/FreeScripts.lua"))()
